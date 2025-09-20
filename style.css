@@ -52,7 +52,10 @@ p {
     align-items: right;
 }
 .description {
-    color:rgba(0, 0, 0, 1)
+    color:rgba(0, 0, 0, 0.4)
+}
+.description a {
+    color:rgba(0, 0, 0, 0.4)
 }
 a {
     text-decoration: none;
